@@ -11,7 +11,7 @@
 
 
 
-![Jash's github stats](https://github-readme-stats.vercel.app/api?username=jash-maester&show_icons=false)
+![Jash's github stats](https://github-readme-stats.vercel.app/api?username=jash-maester&show_icons=true&title_color=555&text_color=777&bg_color=f4f4f4&line_height=30)
 
 <!--
 **jash-maester/jash-maester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
