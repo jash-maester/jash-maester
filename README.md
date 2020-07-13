@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-@jashAcharjee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jashAcharjee)](https://twitter.com/jashAcharjee) [![Linkedin Badge](https://img.shields.io/badge/-Jashaswimalya_Acharjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jashAcharjee/)](https://www.linkedin.com/in/jashAcharjee/) [![Medium Badge](https://img.shields.io/badge/-@jashaswimalyaacharjee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jashaswimalyaacharjee/)](https://medium.com/@jashaswimalyaacharjee)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jashaswimalyaacharjee@gmail.com)](mailto:jashaswimalyaacharjee@gmail.com)
+
+
 <!--
 **jash-maester/jash-maester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
