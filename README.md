@@ -6,8 +6,23 @@
   - I am form Tripura, India.
   - Currently pursuing B.Tech Computer Science & Engineering in National Institute of Technology Agartala. (Batch of 2019-2023)
   - Linux Enthusiast
+  - Open Source First
+  
+## 👯 Communities
+  - GirlScript Agartala
+  - Sanganan Prayog NITA
+  - [NITA GNU/LUG](https://groups.google.com/g/nitalug)
 
+## 🔭 I’m currently working on
 
+## 🌱 I’m currently learning
+
+## 💬 Details
+- Name: Jashaswimalya Acharjee
+- 😄 Pronouns: He/Him :man:
+- Student -> B.Tech 2019-2023 Batch
+<!-- - Presentations -->
+- Portfolio: [jash.netlify.app](https://jash.netlify.app/)
 
 
 
