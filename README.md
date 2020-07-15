@@ -29,15 +29,15 @@
   - Python Programming Language
   
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
-  - Python (Learning)
-  - Kubernetes (Basics)
-  - Flutter
-  - i3 Config && Polybar Config
-  - JavaScript (Basics)
-  - HTML/CSS
-  - C Programming
-  - Java
-  - BASH
+  - Python (Learning)  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
+  - Kubernetes (Basics)  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="25px"/>
+  - Flutter  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="25px"/>
+  - i3 Config && Polybar Config  <img src="https://img.icons8.com/ios/50/000000/energy-window-.png" width="25px"/>
+  - JavaScript (Basics)  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" width ="25px"/>
+  - HTML/CSS  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="25px"/>
+  - C Programming  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="25px"/>
+  - Java  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25px"/>
+  - BASH  <img src="https://img.icons8.com/wired/64/000000/console.png" width="25px"/>
   - DOS
   - QBASIC
 
