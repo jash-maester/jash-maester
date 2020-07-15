@@ -4,7 +4,7 @@
 <h2> Hello There, fellow Tech Entushiast! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
   
   - I am form Tripura, India.
-  - Currently pursuing B.Tech Computer Science & Engineering in National Institute of Technology Agartala. (Batch of 2019-2023)
+  - Currently pursuing B.Tech Computer Science & Engineering <br> in National Institute of Technology Agartala.<br>(Batch of 2019-2023)
   - Linux Enthusiast
   - Open Source First
   
@@ -14,8 +14,24 @@
   - [NITA GNU/LUG](https://groups.google.com/g/nitalug)
 
 ## 🔭 I’m currently working on
+  - My Very Own LFS Build (Side Project)
 
 ## 🌱 I’m currently learning
+  - Discrete Mathematics
+  - Data Structures
+  - Python Programming Language
+  
+## ⚡⚡ Technologies, I've Worked on (Reverse-Chronologically) :
+  - Python (Learning)
+  - BASH
+  - Flutter
+  - i3 Config || Polybar Config
+  - JavaScript (Basics)
+  - HTML/CSS
+  - C Programming
+  - Java
+  - DOS
+  - QBASIC
 
 ## 💬 Details
 - Name: Jashaswimalya Acharjee
