@@ -3,6 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@jashAcharjee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jashAcharjee)](https://twitter.com/jashAcharjee) [![Linkedin Badge](https://img.shields.io/badge/-Jashaswimalya_Acharjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jashAcharjee/)](https://www.linkedin.com/in/jashAcharjee/) [![Medium Badge](https://img.shields.io/badge/-@jashaswimalyaacharjee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jashaswimalyaacharjee/)](https://medium.com/@jashaswimalyaacharjee)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jashaswimalyaacharjee@gmail.com)](mailto:jashaswimalyaacharjee@gmail.com)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=flat-square&label=VIEWER+COUNT)
 <h2> Hello There, fellow Tech Entushiast! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
   - I am form Tripura, India.
@@ -28,6 +29,10 @@
   - Data Structures
   - Python Programming Language
   
+## Top Languages :
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)]
+
+  
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
   - Python (Learning)  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
   - Kubernetes (Basics)  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="25px"/>
@@ -50,7 +55,8 @@
 
 
 
-![Jash's github stats](https://github-readme-stats.vercel.app/api?username=jash-maester&show_icons=true&title_color=555&text_color=777&bg_color=f4f4f4&line_height=30)
+![Jash's github stats](https://github-readme-stats.vercel.app/api?username=jash-maester&theme=radical)
+
 
 <!--
 **jash-maester/jash-maester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
