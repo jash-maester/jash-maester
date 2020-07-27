@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@jashAcharjee-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jashAcharjee)](https://twitter.com/jashAcharjee) [![Linkedin Badge](https://img.shields.io/badge/-Jashaswimalya_Acharjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jashAcharjee/)](https://www.linkedin.com/in/jashAcharjee/) [![Medium Badge](https://img.shields.io/badge/-@jashaswimalyaacharjee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jashaswimalyaacharjee/)](https://medium.com/@jashaswimalyaacharjee)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jashaswimalyaacharjee@gmail.com)](mailto:jashaswimalyaacharjee@gmail.com)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=flat-square&label=VIEWER+COUNT)
+![](https://komarev.com/ghpvc/?username=jash-maester&color=dc143c&style=flat-square&label=VIEWER+COUNT)
 <h2> Hello There, fellow Tech Entushiast! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
   - I am form Tripura, India.
