@@ -14,20 +14,23 @@
 ## Distro I'm Currently On:
   - Manjaro
   - LFS
-  - Fedora
+  - Endeavour OS
   
 ## 👯 Communities :
-  - GirlScript Agartala
+  <!--- GirlScript Agartala
   - Sanganan Prayog NITA
+  -->
+
   - [NITA GNU/LUG](https://groups.google.com/g/nitalug)
 
 ## 🔭 I’m currently working on :
-  - My Very Own LFS Build (Side Project)
+  - Getting into Computer Vision.
+  - Started NLP.
 
 ## 🌱 I’m currently learning :
-  - Discrete Mathematics
   - Data Structures
-  - Python Programming Language
+  - NLP
+  - OpenCV
   
 ## Top Languages :
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)]
