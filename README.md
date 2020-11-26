@@ -13,34 +13,31 @@
   
 ## Distro I'm Currently On:
   - Manjaro
-  - LFS
-  - Endeavour OS
+  - Arch
+  <!--- Endeavour OS-->
   
 ## 👯 Communities :
-  <!--- GirlScript Agartala
-  - Sanganan Prayog NITA
-  -->
-
   - [NITA GNU/LUG](https://groups.google.com/g/nitalug)
 
 ## 🔭 I’m currently working on :
-  - Getting into Computer Vision.
-  - Started NLP.
+  - Focusing more on Theoretical Aspects.
 
 ## 🌱 I’m currently learning :
+  - CNN
+  - Neural Networks 
   - Data Structures
-  - NLP
-  - OpenCV
   
 ## Top Languages :
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)]
 
   
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
-  - Python (Learning)  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
+  - Tensorflow (Learning)  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="25px"/>
+  - DWM  <img src="https://img.icons8.com/color/48/000000/monitor.png" width="25px"/>
+  - Python  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
   - Kubernetes (Basics)  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="25px"/>
-  - Flutter  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="25px"/>
-  - i3 Config && Polybar Config  <img src="https://img.icons8.com/ios/50/000000/energy-window-.png" width="25px"/>
+  - Flutter  (Basics)  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="25px"/>
+  - i3 && Polybar Config  <img src="https://img.icons8.com/ios/50/000000/energy-window-.png" width="25px"/>
   - JavaScript (Basics)  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" width ="25px"/>
   - HTML/CSS  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="25px"/>
   - C Programming  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="25px"/>
