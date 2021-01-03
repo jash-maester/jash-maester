@@ -6,14 +6,15 @@
 ![](https://komarev.com/ghpvc/?username=jash-maester&color=dc143c&style=flat-square&label=VIEWER+COUNT)
 <h2> Hello There, fellow Tech Entushiast! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-  - I am form Tripura, India.
+  - I am from Tripura, India.
   - Currently pursuing B.Tech Computer Science & Engineering <br> in National Institute of Technology Agartala.<br>(Batch of 2019-2023)
-  - Linux Enthusiast
-  - Open Source First
+  - Linux Enthusiast.
+  - Open Source First.
   
 ## Distro I'm Currently On:
-  - Manjaro
+  - Manjaro (Primary)
   - Arch
+  - Ubuntu Server
   <!--- Endeavour OS-->
   
 ## 👯 Communities :
@@ -28,7 +29,7 @@
   - Data Structures
   
 ## Top Languages :
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)]
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)
 
   
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
