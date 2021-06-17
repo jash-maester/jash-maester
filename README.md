@@ -12,8 +12,7 @@
   - Open Source First.
   
 ## Distro I'm Currently On:
-  - Manjaro (Primary)
-  - Arch
+  - Ubuntu 21.04
   - Ubuntu Server
   <!--- Endeavour OS-->
   
@@ -24,7 +23,8 @@
   - Focusing more on Theoretical Aspects.
 
 ## 🌱 I’m currently learning :
-  - CNN
+  - GANs
+  - CNNs
   - Neural Networks 
   - Data Structures
   
@@ -33,6 +33,7 @@
 
   
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
+  - PyTorch (Learning) <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" width="25px"/>
   - Tensorflow (Learning)  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="25px"/>
   - DWM  <img src="https://img.icons8.com/color/48/000000/monitor.png" width="25px"/>
   - Python  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
