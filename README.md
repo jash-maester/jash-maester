@@ -49,7 +49,6 @@
 
 ## 💬 Details :
 - <b>Name:</b> Jashaswimalya Acharjee
-- <b>😄 Pronouns:</b> He/Him :man:
 - <b>Student:</b> B.Tech 2019-2023 Batch
 <!-- - Presentations -->
 - <b>Portfolio:</b> [jash.netlify.app](https://jash.netlify.app/)
