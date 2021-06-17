@@ -9,7 +9,6 @@
   - I am from Tripura, India.
   - Currently pursuing B.Tech Computer Science & Engineering <br> in National Institute of Technology Agartala.<br>(Batch of 2019-2023)
   - Linux Enthusiast.
-  - Open Source First.
   
 ## Distro I'm Currently On:
   - Ubuntu 21.04
