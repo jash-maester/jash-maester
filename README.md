@@ -6,14 +6,15 @@
 ![](https://komarev.com/ghpvc/?username=jash-maester&color=dc143c&style=flat-square&label=VIEWER+COUNT)
 <h2> Hello There, fellow Tech Entushiast! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-  - I am from Tripura, India.
-  - Currently pursuing B.Tech Computer Science & Engineering <br> in National Institute of Technology Agartala.<br>(Batch of 2019-2023)
+  - Born and brought up in Tripura, India.
+  - Currently an Exchange Student under MoU Programme at IIT Madras.
+  - Pursuing B.Tech Computer Science & Engineering <br> in National Institute of Technology Agartala.<br>(Batch of 2019-2023)
   - Linux Enthusiast.
   
 ## Distro I'm Currently On:
-  - Ubuntu 21.04
+  - Gentoo
+  - OpenSUSE Tumbleweed
   - Ubuntu Server
-  <!--- Endeavour OS-->
   
 ## 👯 Communities :
   - [NITA GNU/LUG](https://groups.google.com/g/nitalug)
@@ -22,10 +23,7 @@
   - Focusing more on Theoretical Aspects.
 
 ## 🌱 I’m currently learning :
-  - GANs
-  - CNNs
-  - Neural Networks 
-  - Data Structures
+  - Reinforcement Learning
   
 ## Top Languages :
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jash-maester&theme=radical)
@@ -33,13 +31,10 @@
   
 ## ⚡⚡ Technologies & Languages, I've Worked on (Reverse-Chronologically) :
   - PyTorch (Learning) <img src="https://img.icons8.com/ios-filled/50/000000/machine-learning.png" width="25px"/>
-  - Tensorflow (Learning)  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="25px"/>
   - DWM  <img src="https://img.icons8.com/color/48/000000/monitor.png" width="25px"/>
   - Python  <img src="https://img.icons8.com/color/48/000000/python.png" width="25px"/>
   - Kubernetes (Basics)  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="25px"/>
-  - Flutter  (Basics)  <img src="https://img.icons8.com/color/48/000000/flutter.png" width="25px"/>
   - i3 && Polybar Config  <img src="https://img.icons8.com/ios/50/000000/energy-window-.png" width="25px"/>
-  - JavaScript (Basics)  <img src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" width ="25px"/>
   - HTML/CSS  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="25px"/>
   - C Programming  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="25px"/>
   - Java  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="25px"/>
@@ -57,18 +52,3 @@
 
 ![Jash's github stats](https://github-readme-stats.vercel.app/api?username=jash-maester&theme=radical)
 [![More Stats](https://github-readme-streak-stats.herokuapp.com?user=jash-maester&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!--
-**jash-maester/jash-maester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
